@@ -24,11 +24,6 @@ ETL-Pipeline-Project/
 - pandas
 - scikit-learn
 - Jupyter Notebook
-
-## 🚀 How to Use
-
  Clone the repository:
 
-   ```bash
-   git clone [https://github.com/Riteshtech9/ETL-Pipeline-Project]
-   cd ETL-Pipeline-Project
+   
